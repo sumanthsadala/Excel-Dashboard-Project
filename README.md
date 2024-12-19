@@ -5,7 +5,7 @@
 This project aims to create an interactive Excel dashboard that contains data from ***Orders, Finance, and Customer Satisfaction***. Utilizing Slicers, users can easily filter and analyze the data, gaining insights into sales performance, financial metrics, and customer feedback, empowering effective decision-making and improving overall business performance.
 <p>&nbsp;</p>
 <p align="center">
-  <img width="586" alt="image" src="https://github.com/NikitaLodha25/Excel-Dashboards/assets/84386819/700917a9-fe08-4ee3-bb4f-8285ab44a1ae">
+  <img width="586" alt="image" src="(https://github.com/sumanthsadala/Excel-Dashboard-Project/blob/main/Dashboard.png)">
 
 
 
