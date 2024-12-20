@@ -1,33 +1,58 @@
-# Excel-Dashboard-Project
+# Bike Sales Dashboard
 
-This project aims to create an interactive Excel dashboard that contains data from ***Orders, Finance, and Customer Satisfaction***. Utilizing Slicers, users can easily filter and analyze the data, gaining insights into sales performance, financial metrics, and customer feedback, empowering effective decision-making and improving overall business performance.
+## Overview
+The **Bike Sales Dashboard** provides an interactive and comprehensive analysis of bike sales data. It highlights customer demographics, purchasing behaviors, and key insights into factors influencing bike purchases. This dashboard enables businesses to identify trends, understand their customer base, and make data-driven decisions.
+
+## Features
+- **Dynamic Filters**:
+  - Marital Status
+  - Region
+  - Education Level
+- **Key Metrics**:
+  - Average Income per Purchase (by Gender)
+  - Bike Purchases by Customer Age Brackets
+  - Commute Distance Analysis
+- **Visualizations**:
+  - Bar Charts, Line Charts, and Interactive Elements for detailed insights.
+
+## Insights
+1. **Income Trends**:
+   - Male customers with a bike purchase have higher average income compared to those without.
+   - Similar trends are observed for female customers.
+2. **Age Brackets**:
+   - Middle-aged customers dominate bike purchases compared to other age groups.
+3. **Commute Distance**:
+   - Customers living 0-1 miles away show higher bike purchase rates.
+
+## Files Included
+- `Dashboard.png`: The screenshot of the Bike Sales Dashboard.
+- `Bike_Sales_Dashboard.xlsx`: The Excel file containing the data and dashboard.
+
 ![screenshot](https://github.com/sumanthsadala/Excel-Dashboard-Project/blob/main/Dashboard.png)
 
+## How to Use
+1. Open the `Bike_Sales_Dashboard.xlsx` file in Microsoft Excel.
+2. Use the slicers to filter the data by marital status, region, or education.
+3. Explore the interactive visualizations to uncover trends and insights.
 
+## Tools & Skills Demonstrated
+- **Tools**: Microsoft Excel (PivotTables, PivotCharts, and Slicers).
+- **Skills**:
+  - Data Cleaning and Transformation
+  - Data Visualization
+  - Dashboard Design and Interactivity
 
-## Key Features
-Data Consolidation: The dashboard consolidates data from multiple sources, ensuring all relevant information is presented in a single, unified view.
+## About the Dataset
+The dataset used for this dashboard includes:
+- **Customer Demographics**: Gender, Age, Marital Status, Education, and Region.
+- **Purchase Information**: Bike purchase status and commute distances.
+- **Income Details**: Average income per customer.
 
-Interactive Slicers: Slicers allow users to filter data instantly, enabling them to focus on specific time periods, product categories, customer segments, and more.
+## Key Takeaways
+This project demonstrates the power of Excel in creating interactive dashboards that allow users to:
+- Filter and analyze large datasets.
+- Draw actionable insights from visual representations of data.
 
-Visual Representation: The dashboard utilizes charts, graphs, and tables to visually represent key performance indicators, making it easier to identify trends and patterns.
-
-User-Friendly Interface: The dashboard is designed with a user-friendly interface, ensuring easy navigation and accessibility for all stakeholders.
-
-Real-time Updates: The data in the dashboard is linked to the underlying datasets, ensuring real-time updates whenever new data is added or modified.
-
-Business Insights: The dashboard offers valuable insights into sales trends, revenue generation, customer feedback, and overall business performance.
-
-Customizable: The dashboard is highly customizable, allowing users to add or modify charts and tables based on specific requirements.
-
-## Usage
-
-To use the Excel dashboard, simply open the provided Excel file and interact with the Slicers to filter data as needed. The dashboard will automatically update based on the selected filters, providing real-time insights into different aspects of the business.
-
-## Contributing
-
-Pull requests are welcome. For major changes, please open an issue first
-to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
 
