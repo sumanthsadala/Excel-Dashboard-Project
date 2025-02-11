@@ -31,7 +31,7 @@ The **Bike Sales Dashboard** provides an interactive and comprehensive analysis 
 ![screenshot](https://github.com/sumanthsadala/Excel-Dashboard-Project/blob/main/Dashboard.png)
 
 ## How to Use
-1. Open the `Bike_Sales_Dashboard.xlsx` file in Microsoft Excel.
+1. Download and open the `Bike_Sales_Dashboard.xlsx` file in Microsoft Excel.
 2. Use the slicers to filter the data by marital status, region, or education.
 3. Explore the interactive visualizations to uncover trends and insights.
 
